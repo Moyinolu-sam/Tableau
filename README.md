@@ -16,7 +16,8 @@ The data was cleaned using excel. The data was checked, and the following was do
 I explored the data to visualize the down time per factory and the down time per machine for the company.
 
 ### DATA VISUALISATION
-![Screenshot 2025-07-04 205950](https://github.com/user-attachments/assets/ab71267f-0169-4cf4-a8b6-563499b92016)
+<img width="1039" height="1003" alt="image" src="https://github.com/user-attachments/assets/8586c533-f547-4c13-bd53-4f6fe62de0a2" />
+
 ![Screenshot 2025-07-04 205935](https://github.com/user-attachments/assets/c8603034-58d5-47d5-bf88-cefc6ce23c16)
 <img width="1628" height="1000" alt="image" src="https://github.com/user-attachments/assets/b9b5548b-c29a-4868-81c6-32ef7740a33e" />
 
